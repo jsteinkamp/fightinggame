@@ -1,0 +1,34 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ShieldScript.cs">
+    <Files>
+      <File FileName="Assets\PlayerMoveScript.cs" Line="282" Column="49" />
+      <File FileName="Assets\ReiScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\InitGame.cs" Line="1" Column="1" />
+      <File FileName="Assets\UIScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\ShieldScript.cs" Line="20" Column="18" />
+      <File FileName="Assets\ExplosionScript.cs" Line="13" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="ShieldScript.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>j</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

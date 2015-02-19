@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 4e442652392bcef4b8ace6d847891bb9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: keysprite_0
+    21300002: keysprite_1
+    21300004: keysprite_3
+    21300006: keysprite_4
+    21300008: keysprite_5
+    21300010: keysprite_6
+    21300012: keysprite_8
+    21300014: keysprite_9
+    21300016: keysprite_9
+    21300018: keysprite_10
+    21300020: keysprite_10
+    21300022: keysprite_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: keysprite_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 6
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 6
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 6
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 6
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_9
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 6
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 5
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_10
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 6
+        width: 5
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: keysprite_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 2
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
